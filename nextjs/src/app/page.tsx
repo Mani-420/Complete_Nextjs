@@ -12,6 +12,9 @@ export default function Home() {
           <li>
             <Link href="/products">Products</Link>
           </li>
+          <li>
+            <Link href="/about">About</Link>
+          </li>
         </ul>
       </nav>
       <p className="text-lg">This is the home page.</p>
